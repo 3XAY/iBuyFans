@@ -6,12 +6,17 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **iBuyFans**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/505).
-
-
 ## 10/19/2025 - Initial Research + Harvested Battery cells  
 
 Brainstormed the basics of the project, did some initial overview research. Found an old, unused USB power bank and harvested the cells. Has enough power for the project. Decided to integrate pixeldust into this project. Found the fans and their pinouts.![PXL_20251019_054817190.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--a4fe63246a11dd07f3e09ff8571395b2d7f0da9b/PXL_20251019_054817190.jpg)
+  
+
+## 10/21/2025 - Created CAD  
+
+Made the fan grills and test fitted them. The hole spacing turned out to be wrong so I had to reprint them. Then, I made some basic connectors that would screw into the fans to hold them all together based on the fan grill hole spacing. Originally, I tried printing a 35mm M4 screw to go all the way through and use nuts to secure the grill and connector as one sandwich but that didn't work. Ended up using shorter M4 screws with nuts on both the fan grill side AND the connector side to connect everything together. Took a while to get everything assembled since there isn't much space to actually tighten the nuts. The hex pattern was also a little tricky because it wouldn't merge properly with the fan grill in Blender and that took a while, as well as fixing the mesh so that I could move the holes.
+
+![PXL_20251021_203605561.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE3NywicHVyIjoiYmxvYl9pZCJ9fQ==--4ac1017b5ea3c83f4a2e862a17b82a6a1f852ca2/PXL_20251021_203605561.jpg)
+![PXL_20251021_203609817.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--fe33c6a2c61568a76453c2f166bf72e4a13a150a/PXL_20251021_203609817.jpg)
+![PXL_20251021_203621193.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--215fe715f78c9a379c8e9e184392dba535cef811/PXL_20251021_203621193.jpg)
   
 
